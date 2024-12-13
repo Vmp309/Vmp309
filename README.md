@@ -1,5 +1,5 @@
 ## Hi there, I'm Victoria 👋
-🚀 Software Developer | QA Analyst | 💡 Lifelong Learner
+🚀 Software Developer | QA Analyst 
 <!--
 **Vmp309/Vmp309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
