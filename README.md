@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Tools: Git
 
 ## 📂 Featured Projects
-- **Operations Research - Elegant solution to the Flow Problem/Suply Chain Problem([link](https://github.com/Vmp309/Operations-Research.git))**: Implementation of algorithm solution in Python.
+- **([[Operations Research - Elegant solution to the Flow Problem/Suply Chain Problem](https://github.com/Vmp309/Operations-Research.git))].**: Implementation of algorithm solution in Python.
 - **[Another Project](link)**: Another description.
 
 ## 🌟 Connect With Me
