@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Victoria 👋
+🚀 Software Developer | QA Analyst | 💡 Lifelong Learner
 <!--
 **Vmp309/Vmp309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 Technologies & Tools
+- Programming: JavaScript, Python, C++
+- Frameworks: React, Django
+- Tools: Git
+
+## 📂 Featured Projects
+- **[Project Name](link)**: Brief description of what it does.
+- **[Another Project](link)**: Another description.
+
+## 🌟 Connect With Me
+[LinkedIn](link) | [Portfolio](link) | [Twitter](link)
